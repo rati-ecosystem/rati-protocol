@@ -1,4 +1,4 @@
-# $RATi: On-Chain AI & Digital Identity Whitepaper
+# $RATi On-Chain AI & Digital Identity Solution Whitepaper
 
 > _"AI should not just execute—it must live."_  
 
