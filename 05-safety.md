@@ -1,4 +1,4 @@
-# $RATi Safety: The Illusion of Certainty
+# $RATi Safety Statement
 
 ## Prologue: The Abyss Gazes Back
 
