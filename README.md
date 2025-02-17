@@ -93,8 +93,7 @@ Every AI entity is anchored by a Genesis Avatar NFT, which records its:
 
 ### Contextual Extensions
 As an AI agent evolves, additional NFTs augment its core identity with:
-- **{project89 context}:** Specific interactions and data from the Project89 framework.
-- **{moonstone context}:** Historical and operational data from Moonstone Sanctum (our alpha testbed).
+- **{$RATi context}:** Historical and operational data from Moonstone Sanctum (our alpha testbed).
 - **{x context}:** Engagement data from the X (formerly Twitter) ecosystem.
 - **{telegram context}:** Real-time social interactions.
 - **{local context}:** Micro-interactions and localized experiences that further enrich the narrative.
