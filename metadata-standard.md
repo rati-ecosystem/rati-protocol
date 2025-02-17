@@ -1,5 +1,3 @@
----
-
 # $RATi NFT Metadata Standard
 
 > _"Our NFT Metadata standard is the cornerstone of the $RATi ecosystem—ensuring that every digital asset, whether an avatar, item, or location, is secure, interoperable, and verifiable across blockchain networks."_
