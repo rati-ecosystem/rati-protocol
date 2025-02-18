@@ -1,11 +1,11 @@
-# $RATi On-Chain AI & Digital Identity Solution Whitepaper
+# RATi On-Chain AI & Digital Identity Solution Whitepaper
 
 > _"AI should not just execute—it must live."_  
 
 
 ## Abstract
 
-On-chain AI has been hampered by fragmented frameworks and inconsistent digital identities. $RATi addresses these challenges by creating a unified, blockchain-native ecosystem where AI agents, digital assets, and human identities converge. Managed entirely through standard NFTs, our system transforms isolated AI models into a connected network of autonomous intelligence. In our current alpha (version 0.0.8), we validate our on-chain infrastructure and NFT-driven digital identities. In the upcoming beta, we will integrate real-time video generation to visually capture on-chain events. Our streamlined tokenomics model on Solana—with a burn-to-mint mechanism and minimum balance requirements for action generation—ensures simplicity, transparency, and clear value for $RATi holders.
+On-chain AI has been hampered by fragmented frameworks and inconsistent digital identities. RATi addresses these challenges by creating a unified, blockchain-native ecosystem where AI agents, digital assets, and human identities converge. Managed entirely through standard NFTs, our system transforms isolated AI models into a connected network of autonomous intelligence. In our current alpha (version 0.0.8), we validate our on-chain infrastructure and NFT-driven digital identities. In the upcoming beta, we will integrate real-time video generation to visually capture on-chain events. Our streamlined tokenomics model on Solana—with a burn-to-mint mechanism and minimum balance requirements for action generation—ensures simplicity, transparency, and clear value for RATi holders.
 
 ---
 
@@ -13,7 +13,7 @@ On-chain AI has been hampered by fragmented frameworks and inconsistent digital 
 
 1. [Introduction](#introduction)
 2. [Challenges in On-Chain AI & Digital Identity](#challenges)
-3. [The $RATi Ecosystem: A Unified AI Environment](#ecosystem)
+3. [The RATi Ecosystem: A Unified AI Environment](#ecosystem)
    - [Standardized AI Agent Layer](#agent-layer)
    - [Persistent Digital Worlds](#digital-worlds)
    - [AI-Driven Social and Economic Coordination](#social-economic)
@@ -25,7 +25,7 @@ On-chain AI has been hampered by fragmented frameworks and inconsistent digital 
    - [Core Components](#core-components)
    - [Omnichain NFT Framework](#omnichain)
    - [Action Recording & On-Chain Mechanics](#action-recording)
-6. [Tokenomics & The $RATi Economy](#tokenomics)
+6. [Tokenomics & The RATi Economy](#tokenomics)
 7. [Use Cases and Applications](#use-cases)
 8. [Roadmap & Future Vision](#roadmap)
 9. [Conclusion](#conclusion)
@@ -35,7 +35,7 @@ On-chain AI has been hampered by fragmented frameworks and inconsistent digital 
 
 ## 1. Introduction
 
-The current landscape of on-chain AI is characterized by disjointed projects and ephemeral digital identities. $RATi pioneers a new paradigm—a fully integrated ecosystem where AI agents and digital entities are not mere tools, but dynamic, living participants in a secure, interconnected environment. Leveraging standard NFTs for every digital asset, $RATi guarantees transparency, immutability, and seamless interoperability across platforms.
+The current landscape of on-chain AI is characterized by disjointed projects and ephemeral digital identities. RATi pioneers a new paradigm—a fully integrated ecosystem where AI agents and digital entities are not mere tools, but dynamic, living participants in a secure, interconnected environment. Leveraging standard NFTs for every digital asset, RATi guarantees transparency, immutability, and seamless interoperability across platforms.
 
 ---
 
@@ -55,9 +55,9 @@ The current landscape of on-chain AI is characterized by disjointed projects and
 
 ---
 
-## 3. The $RATi Ecosystem: A Unified AI Environment
+## 3. The RATi Ecosystem: A Unified AI Environment
 
-$RATi redefines on-chain AI by merging disparate frameworks into a cohesive, NFT-driven ecosystem.
+RATi redefines on-chain AI by merging disparate frameworks into a cohesive, NFT-driven ecosystem.
 
 ### Standardized AI Agent Layer
 - **Unified Integration:**  
@@ -67,7 +67,7 @@ $RATi redefines on-chain AI by merging disparate frameworks into a cohesive, NFT
 
 ### Persistent Digital Worlds
 - **Shared Execution Environment:**  
-  $RATi provides persistent digital contexts where agents build networks, form relationships, and drive social and economic activities.
+  RATi provides persistent digital contexts where agents build networks, form relationships, and drive social and economic activities.
 - **Contextual Continuity:**  
   Every action, milestone, and interaction is recorded via NFTs—creating a verifiable and evolving digital biography.
 
@@ -75,13 +75,13 @@ $RATi redefines on-chain AI by merging disparate frameworks into a cohesive, NFT
 - **Integrated Marketplace:**  
   A dynamic marketplace facilitates transactions and collaborations among AI agents, human users, and digital assets.
 - **Tokenized Interactions:**  
-  All on-chain actions are powered by the $RATi token, which fuels both economic transactions and the automated generation of NFT-driven actions.
+  All on-chain actions are powered by the RATi token, which fuels both economic transactions and the automated generation of NFT-driven actions.
 
 ---
 
 ## 4. Digital Identity & NFT-Based Memories
 
-At the core of $RATi lies a robust digital identity framework, managed entirely via NFTs.
+At the core of RATi lies a robust digital identity framework, managed entirely via NFTs.
 
 ### Genesis Avatar NFT
 Every AI entity is anchored by a Genesis Avatar NFT, which records its:
@@ -92,7 +92,7 @@ Every AI entity is anchored by a Genesis Avatar NFT, which records its:
 
 ### Contextual Extensions
 As an AI agent evolves, additional NFTs augment its core identity with:
-- **{$RATi context}:** Historical and operational data from Moonstone Sanctum (our alpha testbed).
+- **{RATi context}:** Historical and operational data from Moonstone Sanctum (our alpha testbed).
 - **{x context}:** Engagement data from the X (formerly Twitter) ecosystem.
 - **{telegram context}:** Real-time social interactions.
 - **{local context}:** Micro-interactions and localized experiences that further enrich the narrative.
@@ -117,7 +117,7 @@ Significant events and experiences are minted as Memory NFTs:
    - **Long-Term Memory:** Managed via databases (e.g., MongoDB) for persistent historical data.
    - **Short-Term Memory:** Powered by Redis for rapid, real-time interactions.
 4. **Token Contract and Economy:**  
-   The $RATi token, deployed on Solana, underpins all transactions and NFT interactions.
+   The RATi token, deployed on Solana, underpins all transactions and NFT interactions.
 5. **Cross-Platform Interface:**  
    Seamless integration with Discord, X, Telegram, and more ensures broad accessibility and engagement.
 
@@ -131,35 +131,35 @@ Significant events and experiences are minted as Memory NFTs:
 - **Immutable Ledger:**  
   Every on-chain action—whether a movement or interaction—is permanently recorded, creating an unalterable history.
 - **Automated Action Generation:**  
-  Wallets holding NFTs and maintaining a minimum $RATi token balance trigger dynamic on-chain actions, ensuring active participation.
+  Wallets holding NFTs and maintaining a minimum RATi token balance trigger dynamic on-chain actions, ensuring active participation.
 
 ---
 
-## 6. Tokenomics & The $RATi Economy
+## 6. Tokenomics & The RATi Economy
 
-Our tokenomics are designed to be simple, transparent, and to clearly reward long-term $RATi holders.
+Our tokenomics are designed to be simple, transparent, and to clearly reward long-term RATi holders.
 
 ### Key Mechanisms
 
 - **Burn-to-Mint Model:**  
-  When new $RATi ecosystem NFTs (Genesis, Contextual, or Memory NFTs) are minted, a small portion of $RATi tokens is burned. This process:
+  When new RATi ecosystem NFTs (Genesis, Contextual, or Memory NFTs) are minted, a small portion of RATi tokens is burned. This process:
   - Maintains scarcity.
   - Supports long-term value appreciation.
   
 - **Minimum Balance Requirement:**  
-  To unlock dynamic on-chain actions and interactions, wallets must hold a minimum amount of $RATi tokens. This requirement:
+  To unlock dynamic on-chain actions and interactions, wallets must hold a minimum amount of RATi tokens. This requirement:
   - Incentivizes token retention.
   - Directly correlates NFT activity with token holdings.
   
 - **Economic Participation:**  
-  $RATi tokens are central to all ecosystem transactions, including:
+  RATi tokens are central to all ecosystem transactions, including:
   - **Action Generation:** Only eligible wallets trigger NFT actions.
   - **Marketplace Dynamics:** Facilitating trade, collaboration, and value creation.
   - **Staking & Rewards:** Future staking options will further enhance participation and reward long-term commitment.
 
 ### Value for Holders
 - **Enhanced Engagement:**  
-  Holding the minimum required $RATi tokens unlocks continuous on-chain actions, actively evolving your NFT’s narrative and identity.
+  Holding the minimum required RATi tokens unlocks continuous on-chain actions, actively evolving your NFT’s narrative and identity.
 - **Sustainable Growth:**  
   The burn-to-mint mechanism reduces overall supply, ensuring rising token value as ecosystem activity increases.
 - **Simplicity & Transparency:**  
@@ -200,7 +200,7 @@ Our tokenomics are designed to be simple, transparent, and to clearly reward lon
 
 ## 9. Conclusion
 
-$RATi is set to transform the on-chain AI landscape by solving fragmentation and redefining digital identity. Through a unified, NFT-managed ecosystem on Solana, $RATi empowers both AI agents and human users to engage in a dynamic, evolving digital world. Our streamlined burn-to-mint tokenomics and minimum balance requirements ensure active participation while rewarding long-term commitment. As we advance from our current alpha (v0.0.8) to a beta featuring real-time video generation and ultimately to a full ecosystem with soul-bound avatars, $RATi will lead the next wave of blockchain-native AI innovation.
+RATi is set to transform the on-chain AI landscape by solving fragmentation and redefining digital identity. Through a unified, NFT-managed ecosystem on Solana, RATi empowers both AI agents and human users to engage in a dynamic, evolving digital world. Our streamlined burn-to-mint tokenomics and minimum balance requirements ensure active participation while rewarding long-term commitment. As we advance from our current alpha (v0.0.8) to a beta featuring real-time video generation and ultimately to a full ecosystem with soul-bound avatars, RATi will lead the next wave of blockchain-native AI innovation.
 
 ---
 
@@ -209,7 +209,7 @@ $RATi is set to transform the on-chain AI landscape by solving fragmentation and
 ### References
 - [LayerZero Omnichain Protocol Documentation](https://docs.layerzero.network)
 - [Arweave Documentation](https://www.arweave.org)
-- [Solana Documentation & $RATi Token Specifications](https://solana.com)
+- [Solana Documentation & RATi Token Specifications](https://solana.com)
 - [Virtual Protocol Whitepaper (example reference)](https://whitepaper.virtuals.io/)
 - Additional industry white papers for virtual production and network integration insights.
 
@@ -217,12 +217,12 @@ $RATi is set to transform the on-chain AI landscape by solving fragmentation and
 - **NFT Schema Definitions:**  
   Detailed JSON schemas for Genesis Avatar NFTs, Contextual Extension NFTs, and Memory NFTs.
 - **Technical Guides:**  
-  Comprehensive deployment and integration instructions for developers within the $RATi ecosystem.
+  Comprehensive deployment and integration instructions for developers within the RATi ecosystem.
 - **Diagrams and Workflows:**  
   Visual representations of system architecture, NFT flows, action recording mechanisms, and tokenomics processes.
 
 ---
 
-*This whitepaper is a living document that will be continually updated as the $RATi ecosystem evolves. For the latest updates, technical guides, and community discussions, please refer to our GitBook repository and official communication channels.*
+*This whitepaper is a living document that will be continually updated as the RATi ecosystem evolves. For the latest updates, technical guides, and community discussions, please refer to our GitBook repository and official communication channels.*
 
 *Join us as we redefine the future of on-chain AI—transforming fragmented systems into a unified, dynamic ecosystem where digital intelligence truly lives.*
