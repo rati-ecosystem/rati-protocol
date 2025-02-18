@@ -1,14 +1,14 @@
-# $RATi NFT Metadata Standard
+# RATi NFT Metadata Standard
 
-> _"Our NFT Metadata standard is the cornerstone of the $RATi ecosystem—ensuring that every digital asset, whether an avatar, item, or location, is secure, interoperable, and verifiable across blockchain networks."_
+> _"Our NFT Metadata standard is the cornerstone of the RATi ecosystem—ensuring that every digital asset, whether an avatar, item, or location, is secure, interoperable, and verifiable across blockchain networks."_
 
 ---
 
 ## 1. Introduction
 
-The $RATi ecosystem transforms on-chain digital assets into dynamic, living records that evolve with each interaction. Unlike traditional NFTs used solely as digital collectibles, $RATi NFTs serve as state records for AI agents, items, and locations. Our standard is designed to be chain agnostic, enabling seamless deployment on any blockchain that supports NFT minting. For example, while our current implementation leverages Arweave for immutable storage and Solana for token transactions, the schema itself remains independent of any specific platform.
+The RATi ecosystem transforms on-chain digital assets into dynamic, living records that evolve with each interaction. Unlike traditional NFTs used solely as digital collectibles, RATi NFTs serve as state records for AI agents, items, and locations. Our standard is designed to be chain agnostic, enabling seamless deployment on any blockchain that supports NFT minting. For example, while our current implementation leverages Arweave for immutable storage and Solana for token transactions, the schema itself remains independent of any specific platform.
 
-This document outlines the minimal metadata structure required for all $RATi NFTs, providing a robust framework for developers, traders, and community members within the TCG and crypto ecosystems.
+This document outlines the minimal metadata structure required for all RATi NFTs, providing a robust framework for developers, traders, and community members within the TCG and crypto ecosystems.
 
 ---
 
@@ -30,7 +30,7 @@ This document outlines the minimal metadata structure required for all $RATi NFT
 
 ## 3. NFT Metadata Schema
 
-Below is the minimal JSON schema for $RATi NFTs. This schema is designed for three primary asset types: avatars, items, and locations.
+Below is the minimal JSON schema for RATi NFTs. This schema is designed for three primary asset types: avatars, items, and locations.
 
 ```json
 {
@@ -167,7 +167,7 @@ This chain-agnostic design ensures that regardless of where your NFTs are minted
 
 ## 6. Conclusion
 
-The $RATi NFT Metadata Standard provides a clear, chain-agnostic framework for representing avatars, items, and locations in the ecosystem. By leveraging a minimal JSON schema that includes unique identifiers, descriptive metadata, a flexible attributes array, and cryptographic signatures, our standard ensures that digital assets remain interoperable, secure, and verifiable. Whether stored on Arweave, Solana, or another blockchain, these NFTs form the backbone of a dynamic and interconnected digital multiverse.
+The RATi NFT Metadata Standard provides a clear, chain-agnostic framework for representing avatars, items, and locations in the ecosystem. By leveraging a minimal JSON schema that includes unique identifiers, descriptive metadata, a flexible attributes array, and cryptographic signatures, our standard ensures that digital assets remain interoperable, secure, and verifiable. Whether stored on Arweave, Solana, or another blockchain, these NFTs form the backbone of a dynamic and interconnected digital multiverse.
 
 For additional technical details and integration guidelines, please refer to our developer documentation and GitBook repository.
 
