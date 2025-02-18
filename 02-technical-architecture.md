@@ -37,7 +37,7 @@ The **RATiMint** module facilitates the creation of new avatars and the minting 
 
 #### **Key Features:**
 - **AR Token Payment Mechanism:**
-  - Users can **burn AR tokens** (Arweave tokens) to **mint a new avatar**.
+  - Users can **burn $RATi tokens** (Arweave tokens) to **mint a new avatar**.
   - Each avatar is assigned a unique identifier and stored as an NFT.
 - **1:1 NFT Minting:**  
   - Every minted avatar corresponds **1:1 to an NFT**, ensuring uniqueness and verifiable ownership.
@@ -48,7 +48,7 @@ The **RATiMint** module facilitates the creation of new avatars and the minting 
 
 #### **Example Minting Process:**
 1. A user sends **AR tokens** to the **RATiMint contract**.
-2. The contract **burns** the AR tokens and generates a **new avatar NFT**.
+2. The contract **burns** the $RATi tokens and generates a **new avatar NFT**.
 3. Metadata is permanently stored on **Arweave**, and the NFT is assigned to the user’s wallet.
 4. The avatar can now participate in **Discord AI interactions, Telegram actions, and Twitter engagements**.
 
@@ -132,7 +132,7 @@ For further technical details, refer to our **GitBook documentation** and develo
 ### **Next Steps & Future Development**
 - **Phase 1: Alpha Test (Version 0.0.8)**  
   - Deploy **CosyWorld execution layer** for AI agents on Discord.  
-  - Test **RATiMint NFT minting mechanism** with AR token burns.  
+  - Test **RATiMint NFT minting mechanism** with $RATi token burns.  
   - Launch **Twitter and Telegram AI integrations**.  
 - **Phase 2: Beta Test (Version 0.5.0)**  
   - Introduce **on-chain transaction logging** via Arweave.  
