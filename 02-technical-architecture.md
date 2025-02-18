@@ -1,4 +1,4 @@
-# **$RATi Technical Architecture and System Components**
+# **RATi Technical Architecture and System Components**
 
 ## **1. Overview**
 
