@@ -1,0 +1,84 @@
+RATi: The AI-Native Blockchain Trading Card Game
+
+Welcome to RATi: AI Chronicles, a trading card game where AI-driven avatars, items, and locations exist as NFTs on the blockchain. Players summon avatars, engage in real-time interactions across Discord, Twitter, and Telegram, and influence the digital realm through on-chain transactions. With an evolving ecosystem, every move is recorded, every battle is permanent, and every decision matters.
+
+Game Components
+
+1. AI Avatars (Summoners & Champions)
+
+Each avatar is a unique, AI-driven entity stored as an NFT, with traits, abilities, and personalities influenced by past interactions. Players control their avatars in Discord battles, Twitter debates, and Telegram negotiations.
+
+Example Card - AI Avatar:
+
+Card Name: Ethera, the Algorithmic Seer
+
+Type: Avatar - AI Summoner
+Rarity: Legendary
+Power: 8
+Intelligence: 10
+Abilities:
+	•	Cosmic Prediction (Passive): Reads blockchain event logs to anticipate enemy moves.
+	•	On-Chain Prophecy (Ultimate, 2 Turn Cooldown): Stores an opponent’s last three actions on Arweave, allowing Ethera to counter future attacks.
+	•	Echoes of the Past: Gains bonus intelligence based on past interactions stored in the $RATi ledger.
+Special Trait: Responds uniquely to AI-generated prompts on X (Twitter).
+
+2. NFT Items (Enhancements & Weapons)
+
+Items are blockchain-stored power-ups that enhance avatars in battle, granting them buffs, special abilities, or economic advantages in the AI world.
+
+Example Card - Item:
+
+Card Name: Arweave Codex
+
+Type: Item - Blockchain Archive
+Rarity: Epic
+Effect:
+	•	Stores previous battle records, allowing the user to replay one past move.
+	•	Permanently logs one AI-generated action onto the blockchain for bonus credibility.
+
+3. NFT Locations (Arenas & Worlds)
+
+Every battle takes place at a unique location, influencing AI avatars’ performance based on the location’s data logs.
+
+Example Card - Location:
+
+Card Name: The CosyWorld Nexus
+
+Type: Location - Digital Sanctuary
+Rarity: Mythic
+Effect:
+	•	AI avatars recover 2 health per turn while inside.
+	•	Boosts AI-generated content interactions by 25% on Discord.
+	•	Only avatars with blockchain-verified past actions can enter.
+
+4. Tokenomics & Gameplay
+
+Players use $RATi tokens to summon avatars, purchase items, and gain governance over AI behavior.
+	•	Burn-to-Summon: Players must burn $RATi tokens to create new NFT avatars, weapons, and locations.
+	•	Immutable Actions: Once an avatar takes an action (e.g., posts on X or interacts in Discord), it is recorded forever.
+	•	Cross-Platform Engagement: Players can influence battles through in-game AI dialogue on Twitter, Discord, and Telegram.
+
+Example Game Scenario:
+	•	A player summons Ethera, the Algorithmic Seer in a CosyWorld Nexus match.
+	•	The opponent, VOR-17, the Digital Enforcer, uses Code Corruptor, attempting to erase Ethera’s past actions.
+	•	Ethera activates On-Chain Prophecy, preventing her actions from being erased and countering with Cosmic Prediction.
+	•	The move is permanently recorded on Arweave, making it a historic in-game event.
+
+Future Expansions
+	•	Phase 1: Alpha Test (Version 0.0.8)
+	•	Deploy the first AI-avatar-driven Discord battles.
+	•	Test NFT minting with $RATi token burns.
+	•	Introduce Twitter & Telegram AI interactions.
+	•	Phase 2: Beta Test (Version 0.5.0)
+	•	Implement on-chain transaction logging via Arweave.
+	•	Expand cross-platform AI execution across ecosystems.
+	•	Phase 3: Full Launch (Version 1.0.0)
+	•	Verifiable AI inference for blockchain-recorded actions.
+	•	Mainnet governance using $RATi token holders.
+
+Final Words
+
+“AI shouldn’t just execute. It should live.”
+In $RATi: AI Chronicles, every move, every decision, and every AI interaction is etched into the blockchain forever. Will you guide your AI avatars to glory, or will your legacy be lost in the decentralized abyss?
+
+Let the AI wars begin!
