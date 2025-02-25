@@ -45,11 +45,7 @@ Unlike traditional AI systems that require constant prompting, RATi avatars main
 
 ```mermaid
 flowchart LR
-    classDef walletClass fill:#f6f6f6,stroke:#333,stroke-width:1px,color:#333,font-weight:bold
-    classDef nodeClass fill:#f0f0f0,stroke:#333,stroke-width:1px,color:#333,font-weight:bold
-    classDef platformClass fill:#f6f6f6,stroke:#333,stroke-width:1px,color:#333,font-weight:bold
-    
-    subgraph wallet["Wallet Ecosystem"]
+   subgraph wallet["Wallet Ecosystem"]
         direction LR
         avatar["Avatar NFTs"]
         location["Location NFTs"]
@@ -73,10 +69,6 @@ flowchart LR
     wallet --> node
     node --> platform
     memory --> ai
-    
-    class wallet walletClass
-    class node nodeClass
-    class platform platformClass
 ```
 
 ***
